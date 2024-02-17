@@ -1,6 +1,11 @@
 # 💫 About Me:
 Hi there! I'm a computer engineering student with over 3 years of experience working on back-end development.<br> I'm passionate about learning more in the field of computer science and web development,<br> and I'm always eager to take on new challenges.<br>
-I'm a highly motivated and results-oriented individual. I'm also a team player and I'm always willing to help others.<br>
+I'm a highly motivated and results-oriented individual. I'm also a team player and I'm always willing to help others.<br><b3r>
+
+### Email:  
+- Mortezaei2324@gmail.com
+### Telegram:
+- @Alireza_mortezaei2
 
 
 
